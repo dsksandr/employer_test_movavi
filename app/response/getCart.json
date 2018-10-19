@@ -1,0 +1,27 @@
+{
+  "amount": 4370,
+  "countGoods": 3,
+  "contents": [
+    {
+      "id_product": 122,
+      "product_name": "Пакет видеопрограмм",
+      "link": "#",
+      "price": 1990,
+      "quantity": 1
+    },
+    {
+      "id_product": 121,
+      "product_name": "Фотостудия Movavi",
+      "link": "#",
+      "price": 1890,
+      "quantity": 1
+    },
+    {
+      "id_product": 120,
+      "product_name": "Movavi Пакетный фоторедактор",
+      "link": "#",
+      "price": 490,
+      "quantity": 1
+    }
+  ]
+}

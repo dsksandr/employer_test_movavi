@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium eligendi esse fugiat illum, iste molestiae nemo non nulla sequi soluta?",
+    "date": "12.9.2012 09:33",
+    "liked": false
+  },
+  {
+    "id": 45,
+    "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. A debitis delectus dolorem doloremque ea eaque esse est fugit illo in libero minus neque nisi nulla odit officiis, quae quaerat quasi quibusdam quo ratione suscipit tempora. Aliquam architecto dolorum eius error esse exercitationem explicabo maiores molestias mollitia neque, nihil obcaecati perspiciatis quos reprehenderit soluta vel veritatis? Ab adipisci eum exercitationem fugiat, nemo nobis optio quaerat quisquam sed sit tempora veritatis. Accusamus consectetur consequuntur cum eum in laudantium officiis perspiciatis soluta voluptatum!",
+    "date": "12.9.2013 09:33",
+    "liked": true
+  },
+  {
+    "id": 3,
+    "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium eligendi esse fugiat illum, iste molestiae nemo non nulla sequi soluta?",
+    "date": "12.9.2014 09:33",
+    "liked": false
+  }
+]
+

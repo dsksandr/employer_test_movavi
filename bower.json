@@ -1,0 +1,11 @@
+{
+  "name": "course_work",
+  "description": "Курсовая работа js2",
+  "main": "index.html",
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "jquery-ui": "^1.12.1",
+    "bootstrap": "^4.1.3"
+  }
+}
